@@ -12,7 +12,7 @@
 ##
 #!/bin/bash 
 echo "
-                 Welcome to Login Attempts Report
+                 Welcome to Login Attempts Tool
                           Programming By
                            Ohoud Alawad
 "
