@@ -14,8 +14,8 @@
 ### 3- Write
 #### mv LoginAttempts/* .
 #### rm -rf LoginAttempts/
-### 4- Run LoginAttempts.sh 
-#### chmod +x LoginAttempts.sh
-#### ./LoginAttempts.sh
+### 4- Run LoginAttempts
+#### chmod +x LoginAttempts
+#### ./LoginAttempts
 # vedio explain شرح بالفيديو
 #### https://twitter.com/ohoud_alawad/status/1387425945783570432?s=20
