@@ -16,9 +16,10 @@ echo "
                           Programming By
                            Ohoud Alawad
 "
-echo " Enter 1 for  Success Login Attempts "
-echo " Enter 2 for Faild Login Attempts"
-read choice
+read -p "Enter 1 for  Success Login Attempts 
+Enter 2 for Faild Login Attempts:  
+"  
+choice
 function SuccessLogin()
 {
   echo " Num of Logins      Date       User         IP"
